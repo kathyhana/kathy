@@ -56,7 +56,7 @@ inputs:
     description: "Directory location of the Data API configuration files"
     required: false
 outputs:
-  static_web_app_url:
+  static_web_app_url: "https://gray-desert-0a03f021e.5.azurestaticapps.net/"
     description: "Url of the application"
 runs:
   using: "docker"
